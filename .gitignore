@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.local
+.vite
+coverage
+dist
+server/dist
+client/dist
+*.log
